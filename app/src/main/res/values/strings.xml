@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EXAMEN JULIO</string>
+    <string name="julio_alfonso_hidalgo_diaz">JULIO ALFONSO HIDALGO DIAZ</string>
+    <string name="_7t11">7T11</string>
+    <string name="todo">TODO</string>
+    <string name="boton">boton</string>
+    <string name="saludar">Saludar</string>
+    <string name="saludar_mensaje">saludar Mensaje</string>
+    <string name="opetaciones">opetaciones</string>
+    <string name="ingresa_tu_nombre">ingresa tu nombre</string>
+    <string name="textview">TextView</string>
+    <string name="saludo">Saludo</string>
+
+</resources>
